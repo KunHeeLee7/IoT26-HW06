@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/ddfb3a1d-9d94-463a-9582-a085218286d8
 # IoT26-HW06  
 
 ### **Objective**
