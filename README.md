@@ -18,11 +18,11 @@
 * **Tools**: SSH, Visual Studio Code (VS Code) / Thonny IDE, External Monitor / Camera Input
 
 ---
-![image.png](attachment:e3d9f689-27d9-437f-a162-a93960252ea0:image.png)
+<img width="640" height="619" alt="image (1)" src="https://github.com/user-attachments/assets/8e007a69-a642-4002-b257-649873ca0604" />
 
 <img width="4000" height="2252" alt="116932" src="https://github.com/user-attachments/assets/996e0be3-7626-42c2-87df-1bf6c7a2d5f7" />
 
-![image.png](attachment:d7da9e9a-64e6-42df-9d82-a79aba648dc3:9dee3154-2be4-43bd-a886-45be40fd37cb.png)
+<img width="1919" height="952" alt="image (2)" src="https://github.com/user-attachments/assets/408bb496-68e9-403a-be78-7f58077c1bfe" />
 
 <img width="646" height="691" alt="화면 캡처 2026-05-25 193414" src="https://github.com/user-attachments/assets/40906892-39de-4b07-9982-d8bf0c3ab489" />
 
